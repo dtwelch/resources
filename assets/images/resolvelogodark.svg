@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="70 197 555 160" width="555" height="160">
+  <defs/>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_5">
+        <path d="M 132.82998 325.14093 L 142.53748 334.84843 L 142.53748 219.15157 L 132.82998 228.85907 Z M 123.12249 238.56656 L 113.41499 248.27406 L 113.41499 305.72594 L 123.12249 315.43344 Z M 152.24497 343.29615 C 152.76453 343.23935 153.26896 343.0118 153.6673 342.61345 L 162.7151 333.56565 L 162.7151 220.43435 L 153.6673 211.38655 L 153.6673 211.38655 C 153.6673 211.38655 153.6673 211.38655 153.6673 211.38655 C 153.26896 210.98822 152.76453 210.76065 152.24497 210.70385 Z M 103.7075 257.98155 L 94 267.68905 L 94 286.31095 L 103.7075 296.01845 Z M 197.14053 299.14022 L 204.0256 292.25513 L 204.0256 261.74487 L 197.14053 254.85978 Z M 190.25544 247.9747 L 183.37035 241.0896 L 183.37035 312.9104 L 190.25544 306.0253 Z M 210.9107 285.37005 L 217.59835 278.6824 C 218.5275 277.75323 218.5275 276.24677 217.59835 275.3176 L 210.9107 268.62995 Z M 176.48527 234.20452 L 169.60018 227.31943 L 169.60018 326.68057 L 176.48527 319.79548 Z" fill="#ef8665"/>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(241.44353 203)" fill="#3a3a3a">
+          <tspan font-family="Avenir Next" font-style="italic" font-weight="bold" font-size="51" fill="#3a3a3a" x="8526513e-20" y="51">RESOLVE v2</tspan>
+        </text>
+      </g>
+      <g id="Line_3">
+        <line x1="241" y1="273" x2="584.7656" y2="273" stroke="#3a3a3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <g id="Graphic_2">
+        <text transform="translate(241 282.5)" fill="#3a3a3a">
+          <tspan font-family="Avenir Next" font-size="24" fill="#3a3a3a" x="0" y="24">An Integrated Specification and</tspan>
+          <tspan font-family="Avenir Next" font-size="24" fill="#3a3a3a" x="0" y="57">Programming Language</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
